@@ -27,15 +27,15 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
 	  return true;
-		}
-		```
+}
+```
 
-		```ruby
+```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 	end
-	```
+```
 
 #### Header 4
 
@@ -79,18 +79,18 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 ### And a nested list:
 
 - level 1 item
-  - level 2 item
-	  - level 2 item
-		    - level 3 item
-				    - level 3 item
-						- level 1 item
-						  - level 2 item
-							  - level 2 item
-								  - level 2 item
-									- level 1 item
-									  - level 2 item
-										  - level 2 item
-											- level 1 item
+- level 2 item
+- level 2 item
+- level 3 item
+- level 3 item
+- level 1 item
+- level 2 item
+- level 2 item
+- level 2 item
+- level 1 item
+- level 2 item
+- level 2 item
+- level 1 item
 
 ### Small image
 
